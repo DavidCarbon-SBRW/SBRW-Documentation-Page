@@ -6,11 +6,17 @@
 
 When clicking on the CDN Selection Drop Down Menu you are able to choose the available CDN's being hosted by community members. 
 
+{% hint style="warning" %}
+Electron Launcher chooses the best CDN for the USER
+
+_This means its not possible to set a CDN_
+{% endhint %}
+
 ### Maximum Download Size
 
 Checking this option will download the Maximum Graphics for the Game. This will download additional files of approximately 1GB
 
 ### Show Log File
 
-Click this button will open the log file of the processes of the Electron Launcher. This is useful for debuging an issue.
+Click this button will open the log file of the processes of the Electron Launcher. This is useful for debugging an issue.
 
