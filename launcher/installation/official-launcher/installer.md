@@ -15,7 +15,7 @@ description: Community Created Windows Installer to make installation process qu
 ### **3. Choose Your Installation Directory**
 
 {% hint style="info" %}
-Default Directory is on your C:/ Drive
+Default Directory is on your C:\ Drive
 {% endhint %}
 
 ![](../../../.gitbook/assets/soapbox-installer-dir.PNG)
@@ -49,7 +49,7 @@ Depending on the time and day, a CDN might be bottlenecked due to an increase of
 ![\*Note\* This Image shows the installation in a different directory then default](../../../.gitbook/assets/sbrw-choose-a-directory.PNG)
 
 {% hint style="success" %}
-C://Soapbox Race World/Game Files
+C:\Soapbox Race World\Game Files
 
 Note that this might be different depending if you have installed the game launcher on a different Drive
 {% endhint %}
