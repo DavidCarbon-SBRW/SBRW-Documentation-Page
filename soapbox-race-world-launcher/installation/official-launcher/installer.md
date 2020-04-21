@@ -8,6 +8,18 @@ description: Community Created Windows Installer to make installation process qu
 
 💾 [Download Latest Installer](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer/releases/latest/download/SBRW.Installer.exe)
 
+### **2. Choose Your** Language
+
+![](../../../.gitbook/assets/soapbox-installer-lang.PNG)
+
+### **3. Choose Your Installation Directory**
+
+{% hint style="info" %}
+Default Directory is on your C:/ Drive
+{% endhint %}
+
+![](../../../.gitbook/assets/soapbox-installer-dir.PNG)
+
 Becoming a super hero is a fairly straight forward process:
 
 ```
