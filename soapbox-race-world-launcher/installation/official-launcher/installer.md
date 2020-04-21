@@ -4,7 +4,9 @@ description: Community Created Windows Installer to make installation process qu
 
 # Installer \(Windows Only\)
 
-## Download Installer
+### 1. Download the latest version of Game Launcher Installer <a id="1-download-the-latest-version-of-windowsgsm"></a>
+
+\`\`💾 [`https://github.com/1DavidCarbon/Soapbox_Launcher_Installer`](https://github.com/1DavidCarbon/Soapbox_Launcher_Installer)\`\`
 
 Becoming a super hero is a fairly straight forward process:
 
