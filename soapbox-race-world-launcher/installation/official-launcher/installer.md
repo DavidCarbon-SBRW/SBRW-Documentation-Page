@@ -44,6 +44,8 @@ Depending on the time and day, a CDN might be bottlenecked due to an increased t
 {% endtab %}
 {% endtabs %}
 
+### **6. Choosing Game File Directory**
+
 ```
 $ give me super-powers
 ```
