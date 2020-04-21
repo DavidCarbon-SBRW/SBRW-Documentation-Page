@@ -11,6 +11,6 @@
   * [Electron Launcher](launcher/installation/electron-launcher.md)
 * [CDN](launcher/cdn.md)
 * [Error Codes](launcher/error-codes/README.md)
-  * [Server](launcher/error-codes/server.md)
+  * [Server](launcher/error-codes/game.md)
   * [Game Launcher](launcher/error-codes/launcher.md)
 
