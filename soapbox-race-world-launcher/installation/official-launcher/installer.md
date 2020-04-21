@@ -48,6 +48,12 @@ Depending on the time and day, a CDN might be bottlenecked due to an increased t
 
 ![\*Note\* This Image shows the installation in a different directory then default](../../../.gitbook/assets/sbrw-choose-a-directory.PNG)
 
+{% hint style="success" %}
+C://Soapbox Race World/Game Files
+
+Note that this might be different depending if you have installed the game launcher on a different Drive
+{% endhint %}
+
 ```
 $ give me super-powers
 ```
