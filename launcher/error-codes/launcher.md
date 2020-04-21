@@ -12,6 +12,10 @@ _Download and Install the VC++ Redistributable_
 
 ### **.NET Framework**
 
+{% hint style="danger" %}
+**You need to have .NET Framework to be installed open the game launcher**
+{% endhint %}
+
 _Windows Vista SP2 or Later_
 
 💾 [.NET Framework 4.6](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net46-web-installer)
