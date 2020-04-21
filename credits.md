@@ -21,5 +21,7 @@ description: Thanks to the following people!
 
 | Name | Link |
 | :--- | :--- |
-| DavidCarbon | [https://github.com/1DavidCarbon/](https://github.com/1DavidCarbon/) |
+| DavidCarbon | [https://github.com/1DavidCarbon](https://github.com/1DavidCarbon/) |
+
+
 
