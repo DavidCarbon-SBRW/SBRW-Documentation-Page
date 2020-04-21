@@ -16,7 +16,7 @@ The Game Launcher was recorded to include a CDN server list chooser. The user ca
 
 ![Interface Version 3 Settings](../../../.gitbook/assets/game-launcher-interface-version-3-settings-cdn.PNG)
 
-When clicking on the CDN Selection Drop Down Menu you are able to choose the available CDN's being hosted by community members. This would be important if the user's game files were removed or corrupted the game launcher would re-download the files if necessary.
+When clicking on the CDN Selection Drop Down Menu you are able to choose the available CDN's being hosted by community members. This would be important if the user's game files were removed or corrupted, where the game launcher would re-download the files if necessary.
 
 **Version 1.9.X.X \(Interface Verison 2\)**
 
