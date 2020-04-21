@@ -20,7 +20,7 @@ description: Alternative Game Launcher
 
 **a. Create a Folder** _**Game Files**_
 
-![](../../.gitbook/assets/sbrw-create-a-parent-folder-required-folders.PNG)
+![](../../.gitbook/assets/sbrw-create-a-parent-folder-required-folders-electron.PNG)
 
 {% hint style="warning" %}
 In this example the Directory is on the C: Drive
