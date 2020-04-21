@@ -20,6 +20,29 @@ Both keyboard and USB gamepad controllers can be used to play Need for Speed: Wo
 
 ## Controllers
 
+{% hint style="warning" %}
+_Different Game Servers Do Not Support The Xbox One or PlayStation 4 Controllers by Default_
+{% endhint %}
+
+### Stock Game Controller Support
+
+* Microsoft Xbox 360 Controller
+* Logitech ChillStream
+* Logitech Rumble Gamepad 510
+* Logitech Rumblepad
+* Logitech Rumblepad 2
+* Logitech Cordless Rumblepad 2
+* Logitech DualAction Gamepad
+* Logitech G25 Wheel
+* Logitech G27 Wheel
+* Logitech MOMO Force Feedback Wheel
+* Thrustmaster Universal Challenge Racing Wheel
+
+### ModNET Game Controller Support
+
+* Xbox One Controller
+* Playstation 4 Controller
+
 | Driving | Action |
 | :---: | :---: |
 | R2 Trigger | Accelerate |
@@ -45,6 +68,4 @@ Both keyboard and USB gamepad controllers can be used to play Need for Speed: Wo
 | :---: | :---: |
 | Left Central Button | Reset Car |
 | Right Central Button | Change Camera Angle |
-
-## Controllers
 
