@@ -12,11 +12,11 @@ _Download and Install the VC++ Redistributable_
 
 ### **.NET Framework Download**
 
-**Windows Vista SP2 or Later**
+_Windows Vista SP2 or Later_
 
 💾 [.NET Framework 4.6](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net46-web-installer)
 
-**Windows 7 SP1 or Later**
+_Windows 7 SP1 or Later_
 
 💾 [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer)
 
