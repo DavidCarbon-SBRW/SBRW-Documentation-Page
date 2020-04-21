@@ -14,15 +14,21 @@ Please make sure you download the _**ZIP**_ and not the _**Source code**_
 
 💾 [Download Latest Z](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/releases/latest)[IP](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/releases/latest)
 
-## **3. Choose Your Installation Directory**
+## **2. Creating Game Files and Launcher Folders**
 
-{% hint style="info" %}
-Default Directory is on your C: Drive
+**Create a folder where the Game Files and Game Launcher will be installed**
+
+{% hint style="warning" %}
+In this example the Directory is on your C:\ Drive
+
+_If your doing it on a different Drive make sure to have the directory like this example_
 {% endhint %}
 
-![](../../../.gitbook/assets/soapbox-installer-dir.PNG)
+![](../../../.gitbook/assets/sbrw-create-a-parent-folder.PNG)
 
-## **4. Launch Game Launcher**
+**Create two folders within the Soapbox Race World Folder like shown below**
+
+## **3. Launch Game Launcher**
 
 ![](../../../.gitbook/assets/soapbox-installer-launch.PNG)
 
