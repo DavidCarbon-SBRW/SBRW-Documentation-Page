@@ -18,9 +18,15 @@ Please make sure you download the _**ZIP**_ and not the _**Source code**_
 
 **Create a folder where the Game Files and Game Launcher will be installed**
 
+**a. Create a Folder** _**Soapbox Race World**_
+
 ![](../../../.gitbook/assets/sbrw-create-a-parent-folder.PNG)
 
 **Create two folders within the Soapbox Race World Folder**
+
+**a. Create a Folder** _**Game Files**_
+
+**b**_**.**_ **Create a Folder** _**Launcher**_
 
 ![](../../../.gitbook/assets/sbrw-create-a-parent-folder-required-folders.PNG)
 
