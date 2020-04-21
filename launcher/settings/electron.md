@@ -9,7 +9,7 @@ When clicking on the CDN Selection Drop Down Menu you are able to choose the ava
 {% hint style="warning" %}
 Electron Launcher chooses the best CDN for the USER
 
-_This means its not possible to set a CDN_
+_The USER can choose a different CDN if they desire_
 {% endhint %}
 
 ### Maximum Download Size
