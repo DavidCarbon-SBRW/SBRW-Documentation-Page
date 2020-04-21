@@ -55,7 +55,7 @@ Both keyboard and USB gamepad controllers can be used to play Need for Speed: Wo
 ## Controllers
 
 {% hint style="warning" %}
-_Different Game Servers Do Not Support the Xbox One or PlayStation 4 Controllers by Default_
+_Certain Game Servers Do Not Support the Xbox One or PlayStation 4 Controllers by Default_
 {% endhint %}
 
 ### Stock Game Controller Support
