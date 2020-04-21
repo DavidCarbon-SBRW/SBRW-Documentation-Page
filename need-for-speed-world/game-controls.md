@@ -18,6 +18,14 @@ Both keyboard and USB gamepad controllers can be used to play Need for Speed: Wo
 | 3 | Engage Power-up 3 |
 | 4 | Engage Power-up 4 |
 
+| Numeric Keys | Action |
+| :---: | :---: |
+| 2 | Engage Power-up 4 |
+| 4 | Engage Power-up 3 |
+| 6 | Engage Power-up 3 |
+| 8 | Engage Power-up 1 |
+| + | Open Help Gadget |
+
 ## Controllers
 
 {% hint style="warning" %}
