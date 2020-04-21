@@ -58,5 +58,3 @@ Note that this might be different depending if you have installed the game launc
 
 ![](../../../.gitbook/assets/sbrw-installation-complete.PNG)
 
-Having Problems
-
