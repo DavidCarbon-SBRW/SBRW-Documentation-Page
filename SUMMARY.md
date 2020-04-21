@@ -11,6 +11,7 @@
   * [Electron Launcher](launcher/installation/electron-launcher.md)
 * [Settings](launcher/settings/README.md)
   * [Official Launcher](launcher/settings/official/README.md)
+    * [Word Filtering & Verify Files](launcher/settings/official/misc.md)
     * [CDN](launcher/settings/official/cdn.md)
   * [Electron Launcher](launcher/settings/electron.md)
 * [Error Codes](launcher/error-codes/README.md)
