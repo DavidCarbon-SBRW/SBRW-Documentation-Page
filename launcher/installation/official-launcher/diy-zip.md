@@ -26,7 +26,9 @@ _If your doing it on a different Drive make sure to have the directory like this
 
 ![](../../../.gitbook/assets/sbrw-create-a-parent-folder.PNG)
 
-**Create two folders within the Soapbox Race World Folder like shown below**
+**Create two folders within the Soapbox Race World Folder**
+
+![](../../../.gitbook/assets/sbrw-create-a-parent-folder-required-folders.PNG)
 
 ## **3. Launch Game Launcher**
 
