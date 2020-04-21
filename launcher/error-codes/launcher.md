@@ -26,6 +26,12 @@ _Windows 7 SP1 or Later_
 
 💾 [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
 
+### System Drive Not NTFS
+
+Game Launcher and Game Files are required to be installed on a system drive that is formatted on NTFS.
+
+_If your hard-drive is NTFS than unfortunately the only solution would be to reinstall Windows._
+
 {% hint style="info" %}
 Error Code Not Listed?
 
