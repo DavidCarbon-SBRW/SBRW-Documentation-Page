@@ -51,7 +51,7 @@ Depending on the time and day, a CDN might be bottlenecked due to an increase of
 {% hint style="success" %}
 C:\Soapbox Race World\Game Files
 
-Note that this might be different depending if you have installed the game launcher on a different Drive
+_Note that this might be different depending if you have installed the game launcher and game files on a different Drive_
 {% endhint %}
 
 ### **7. Race Complete**
