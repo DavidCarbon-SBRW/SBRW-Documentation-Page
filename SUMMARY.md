@@ -25,4 +25,5 @@
 ## Suport
 
 * [Discord](https://discord.gg/RneBfcj)
+* [Credits](credits.md)
 
