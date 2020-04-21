@@ -6,15 +6,13 @@ description: Do It Yourself Method
 
 ## 1. Download the latest version of Game Launcher ZIP <a id="1-download-the-latest-version-of-windowsgsm"></a>
 
-💾 [Download Latest Z](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/releases/latest)[IP](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/releases/latest)
-
-## **2. Download the ZIP**
+![Download Release.zip](../../../.gitbook/assets/lastest-release-github.png)
 
 {% hint style="warning" %}
 Please make sure you download the _**ZIP**_ and not the _**Source code**_
 {% endhint %}
 
-![Download Release.zip](../../../.gitbook/assets/lastest-release-github.png)
+💾 [Download Latest Z](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/releases/latest)[IP](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/releases/latest)
 
 ## **3. Choose Your Installation Directory**
 
