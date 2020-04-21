@@ -20,15 +20,33 @@ Default Directory is on your C:/ Drive
 
 ![](../../../.gitbook/assets/soapbox-installer-dir.PNG)
 
-Becoming a super hero is a fairly straight forward process:
+### **4. Launch Game Launcher**
+
+![](../../../.gitbook/assets/soapbox-installer-launch.PNG)
+
+**5. Choosing Your Download Type and Source**
+
+{% hint style="warning" %}
+Depending on Your Location choosing a CDN closest to you will result in a fast download speed
+{% endhint %}
+
+{% tabs %}
+{% tab title="Welcome Prompt" %}
+![](../../../.gitbook/assets/sbrw-first-window.PNG)
+{% endtab %}
+
+{% tab title="Download Type" %}
+![](../../../.gitbook/assets/sbrw-first-window-download-type.PNG)
+{% endtab %}
+
+{% tab title="Download Source" %}
+![](../../../.gitbook/assets/sbrw-first-window-download-source.PNG)
+{% endtab %}
+{% endtabs %}
 
 ```
 $ give me super-powers
 ```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
 Once you're strong enough, save the world:
 
