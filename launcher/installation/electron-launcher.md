@@ -23,16 +23,20 @@ description: Alternative Game Launcher
 ![](../../.gitbook/assets/sbrw-create-a-parent-folder-required-folders-electron.PNG)
 
 {% hint style="warning" %}
-In this example the Directory is on the C: Drive
+In this example the Directory is on the C:\ Drive
 
 _If your doing it on a different Drive make sure to have the directory structure this_
 {% endhint %}
 
-## **3. Extracting the ZIP**
+## **3. Choosing Game File Directory**
 
-_**Make sure you extract the ZIP in the Launcher folder**_
+![](../../.gitbook/assets/sbrw-choose-a-directory-electron.PNG)
 
-![](../../.gitbook/assets/extracted-files.png)
+{% hint style="success" %}
+C:\Soapbox Race World\Game Files
+
+_Note that this might be different depending if you have installed the game on a different Drive_
+{% endhint %}
 
 ## **4. Choosing Your Download Type and Source**
 
