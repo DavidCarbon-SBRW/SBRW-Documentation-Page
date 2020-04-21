@@ -18,5 +18,5 @@ Checking this option will download the Maximum Graphics for the Game. This will 
 
 ### Show Log File
 
-Click this button will open the log file of the processes of the Electron Launcher. This is useful for debugging an issue.
+Clicking this button will open the log file of the processes of the Electron Launcher. This is useful for debugging an issue.
 
