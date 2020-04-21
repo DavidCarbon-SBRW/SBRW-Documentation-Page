@@ -14,7 +14,7 @@ Both keyboard and USB gamepad controllers can be used to play Need for Speed: Wo
 | Space | Handbrake |
 | Backspace | Reset Car |
 
-| Typewriter Keys | Action |
+| Misc. Keys | Action |
 | :---: | :---: |
 | U | Profile Gadget |
 | O | Friends List |
