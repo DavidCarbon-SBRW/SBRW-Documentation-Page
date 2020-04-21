@@ -10,7 +10,7 @@ _Download and Install the VC++ Redistributable_
 
 \_\_💾 __[Download](https://aka.ms/vs/16/release/VC_redist.x86.exe)
 
-### **.NET Framework Download**
+### **.NET Framework**
 
 _Windows Vista SP2 or Later_
 
