@@ -23,6 +23,10 @@
 
 * [Installation](server/installation.md)
 
+## Need For Speed: World
+
+* [Guide](https://guide.sbrw.davidcarbon.download)
+
 ## Suport
 
 * [Discord](https://discord.gg/RneBfcj)
