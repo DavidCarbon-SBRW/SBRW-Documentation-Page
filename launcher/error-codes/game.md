@@ -37,7 +37,9 @@ description: Server Error Codes
 \(Check if your computer/laptop has enough memory to run the game.\)
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Error Code Not Listed?
+
+Ask for help on the [SBRW Official Discord Server](https://discord.gg/RneBfcj)!
 {% endhint %}
 
 
