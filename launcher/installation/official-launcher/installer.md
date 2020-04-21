@@ -1,5 +1,5 @@
 ---
-description: Community Created Windows Installer to make installation process quicker
+description: Community Created Windows Installer
 ---
 
 # Installer \(Windows Only\)
