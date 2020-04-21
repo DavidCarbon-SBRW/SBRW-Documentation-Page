@@ -32,6 +32,12 @@ Game Launcher and Game Files are required to be installed on a system drive that
 
 _If your hard-drive is NTFS than unfortunately the only solution would be to reinstall Windows._
 
+### Access Violation
+
+{% page-ref page="access-violation.md" %}
+
+
+
 {% hint style="info" %}
 Error Code Not Listed?
 
