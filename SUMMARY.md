@@ -14,9 +14,9 @@
   * [Server](launcher/error-codes/game.md)
   * [Game Launcher](launcher/error-codes/launcher.md)
 
-## Soapbox Race World Server
+## Soapbox Race World Server <a id="server"></a>
 
-* [Installation](soapbox-race-world-server/installation.md)
+* [Installation](server/installation.md)
 
 ## Suport
 
