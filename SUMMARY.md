@@ -4,5 +4,5 @@
 
 ## Soapbox Race World Launcher
 
-* [CDN](soapbox-race-world-launcher/untitled-1.md)
+* [CDN](soapbox-race-world-launcher/cdn.md)
 
