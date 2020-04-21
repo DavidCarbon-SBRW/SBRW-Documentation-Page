@@ -24,7 +24,7 @@ Default Directory is on your C:/ Drive
 
 ![](../../../.gitbook/assets/soapbox-installer-launch.PNG)
 
-**5. Choosing Your Download Type and Source**
+### **5. Choosing Your Download Type and Source**
 
 {% hint style="warning" %}
 Depending on the time and day, a CDN might be bottlenecked due to an increased traffic
