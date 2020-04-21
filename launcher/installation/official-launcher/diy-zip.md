@@ -14,7 +14,7 @@ description: Do It Yourself Method
 Please make sure you download the _**ZIP**_ and not the _**Source code**_
 {% endhint %}
 
-![](../../../.gitbook/assets/lastest-release-github.png)
+![Download Release.zip](../../../.gitbook/assets/lastest-release-github.png)
 
 ## **3. Choose Your Installation Directory**
 
