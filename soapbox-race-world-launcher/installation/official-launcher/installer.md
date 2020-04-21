@@ -27,7 +27,7 @@ Default Directory is on your C:/ Drive
 **5. Choosing Your Download Type and Source**
 
 {% hint style="warning" %}
-Depending on Your Location choosing a CDN closest to you will result in a fast download speed
+Depending on the time and day, a CDN will be bottlenecked due to an increased traffic
 {% endhint %}
 
 {% tabs %}
