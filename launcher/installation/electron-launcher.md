@@ -16,7 +16,7 @@ description: Alternative Game Launcher
 
 ![](../../.gitbook/assets/sbrw-create-a-parent-folder.PNG)
 
-**Create two folders within the Soapbox Race World Folder**
+**Create a folder within the** _**Soapbox Race World**_ **Folder**
 
 **a. Create a Folder** _**Game Files**_
 
