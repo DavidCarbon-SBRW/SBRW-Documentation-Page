@@ -16,7 +16,8 @@
   * [Electron Launcher](launcher/settings/electron.md)
 * [Error Codes](launcher/error-codes/README.md)
   * [Server](launcher/error-codes/game.md)
-  * [Game Launcher](launcher/error-codes/launcher.md)
+  * [Game Launcher](launcher/error-codes/launcher/README.md)
+    * [Access Violation](launcher/error-codes/launcher/access-violation.md)
 
 ## Soapbox Race World Server <a id="server"></a>
 
