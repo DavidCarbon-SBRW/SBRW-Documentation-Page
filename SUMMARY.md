@@ -14,3 +14,7 @@
   * [Server](launcher/error-codes/game.md)
   * [Game Launcher](launcher/error-codes/launcher.md)
 
+## Suport
+
+* [Discord](https://discord.gg/RneBfcj)
+
