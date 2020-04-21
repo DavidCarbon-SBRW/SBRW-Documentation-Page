@@ -27,7 +27,7 @@ Default Directory is on your C:/ Drive
 ### **5. Choosing Your Download Type and Source**
 
 {% hint style="warning" %}
-Depending on the time and day, a CDN might be bottlenecked due to an increased traffic
+Depending on the time and day, a CDN might be bottlenecked due to an increase of traffic
 {% endhint %}
 
 {% tabs %}
