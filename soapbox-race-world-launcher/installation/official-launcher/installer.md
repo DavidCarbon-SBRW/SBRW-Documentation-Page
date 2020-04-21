@@ -58,12 +58,5 @@ Note that this might be different depending if you have installed the game launc
 
 ![](../../../.gitbook/assets/sbrw-installation-complete.PNG)
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+Having Problems
 

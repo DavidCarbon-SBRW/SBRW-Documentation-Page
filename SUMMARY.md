@@ -10,4 +10,7 @@
     * [Installer \(Windows Only\)](soapbox-race-world-launcher/installation/official-launcher/installer.md)
   * [Electron Launcher](soapbox-race-world-launcher/installation/electron-launcher.md)
 * [CDN](soapbox-race-world-launcher/cdn.md)
+* [Error Codes](soapbox-race-world-launcher/error-codes/README.md)
+  * [Server](soapbox-race-world-launcher/error-codes/server.md)
+  * [Game Launcher](soapbox-race-world-launcher/error-codes/game-launcher.md)
 
