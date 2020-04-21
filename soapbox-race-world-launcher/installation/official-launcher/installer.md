@@ -54,11 +54,9 @@ C://Soapbox Race World/Game Files
 Note that this might be different depending if you have installed the game launcher on a different Drive
 {% endhint %}
 
-```
-$ give me super-powers
-```
+### **7. Race Complete**
 
-Once you're strong enough, save the world:
+![](../../../.gitbook/assets/sbrw-installation-complete.PNG)
 
 {% code title="hello.sh" %}
 ```bash
