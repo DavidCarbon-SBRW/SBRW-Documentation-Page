@@ -1,5 +1,5 @@
 ---
-description: Different Settings for the Official Soapbox Race World Launcher
+description: Different Settings for Different Launchers
 ---
 
 # Settings
