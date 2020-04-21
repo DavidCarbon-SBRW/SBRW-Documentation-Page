@@ -25,9 +25,10 @@ Both keyboard and USB gamepad controllers can be used to play Need for Speed: Wo
 | V | Freeroam Camera |
 | L | Police Lights |
 | K | Car Sounds |
-|  |  |
-|  |  |
-|  |  |
+| \[ | Start Multiplayer Event |
+| \] | Start Singleplayer Event |
+| J | Accept Multiplayer Event |
+| K | Decline Multiplayer Event |
 
 | Cursor Key | Action |
 | :---: | :---: |
