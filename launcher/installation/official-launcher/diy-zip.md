@@ -27,14 +27,16 @@ Please make sure you download the _**ZIP**_ and not the _**Source code**_
 {% hint style="warning" %}
 In this example the Directory is on the C:\ Drive
 
-_If your doing it on a different Drive make sure to have the directory like this example_
+_If your doing it on a different Drive make sure to have the directory structure this_
 {% endhint %}
 
-## **3. Launch Game Launcher**
+## **3. Extracting the ZIP**
 
-![](../../../.gitbook/assets/soapbox-installer-launch.PNG)
+_**Make sure you extract the ZIP in the Launcher folder**_
 
-## **5. Choosing Your Download Type and Source**
+![](../../../.gitbook/assets/extracted-files.png)
+
+## **4. Choosing Your Download Type and Source**
 
 {% hint style="warning" %}
 Depending on the time and day, a CDN might be bottlenecked due to an increase of traffic
