@@ -12,5 +12,5 @@
 * [CDN](launcher/cdn.md)
 * [Error Codes](launcher/error-codes/README.md)
   * [Server](launcher/error-codes/server.md)
-  * [Game Launcher](launcher/error-codes/game-launcher.md)
+  * [Game Launcher](launcher/error-codes/launcher.md)
 
