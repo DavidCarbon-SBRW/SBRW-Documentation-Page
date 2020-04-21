@@ -14,7 +14,7 @@ A content delivery network _\(CDN\)_ is a system of distributed servers \(networ
 
 The Game Launcher was recorded to include a CDN server list chooser. The user can access the the settings by clicking on the Gear Icon at the Top Right on the Login Screen.
 
-![Interface Version 3 Settings](../.gitbook/assets/game-launcher-interface-version-3-settings-cdn.PNG)
+![Interface Version 3 Settings](../../.gitbook/assets/game-launcher-interface-version-3-settings-cdn.PNG)
 
 When clicking on the CDN Selection Drop Down Menu you are able to choose the available CDN's being hosted by community members. This would be important if the user's game files were removed or corrupted the game launcher would re-download the files if necessary.
 
@@ -24,9 +24,9 @@ This Version of the Game Launcher **does not** Include a CDN list chooser. The o
 
 To get a CDN URL please [Click Here](http://launcher.worldunited.gg/cdn_list.json) to get publicly available CDN's to choose from.
 
-![](../.gitbook/assets/game-launcher-interface-version-2-settings-cdn.PNG)
+![](../../.gitbook/assets/game-launcher-interface-version-2-settings-cdn.PNG)
 
-![Game Launcher Directory \(Created by Windows Installer\)](../.gitbook/assets/game-launcher-interface-version-3-windows-explorer.PNG)
+![Game Launcher Directory \(Created by Windows Installer\)](../../.gitbook/assets/game-launcher-interface-version-3-windows-explorer.PNG)
 
 ```
 [GameLauncher]
