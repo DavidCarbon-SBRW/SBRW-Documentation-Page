@@ -46,6 +46,8 @@ Depending on the time and day, a CDN might be bottlenecked due to an increased t
 
 ### **6. Choosing Game File Directory**
 
+![\*Note\* This Image shows the installation in a different directory then default](../../../.gitbook/assets/sbrw-choose-a-directory.PNG)
+
 ```
 $ give me super-powers
 ```
