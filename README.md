@@ -14,6 +14,10 @@ This page was created and exported from the Unofficial Soapbox Race World Site a
 
 {% page-ref page="launcher/error-codes/" %}
 
+{% page-ref page="need-for-speed-world/game-controls.md" %}
+
+
+
 ### Why was this created?
 
 From a member of the community the same question is asked a lot about setting up their game launcher. Since there are common issues in the game launcher links are posted through the discord chat but many people simply don't check. So this was created to end that mess.
