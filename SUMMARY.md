@@ -33,4 +33,5 @@
 
 * [Discord](https://discord.gg/RneBfcj)
 * [Credits](credits.md)
+* [Docs Guide \(Pull Requests\)](docs-guide-pull-requests.md)
 
