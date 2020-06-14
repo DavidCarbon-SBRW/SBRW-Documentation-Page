@@ -32,4 +32,5 @@
 
 * [Discord](https://discord.gg/RneBfcj)
 * [Credits](credits.md)
+* [Hosting a CDN](hosting-a-cdn.md)
 
