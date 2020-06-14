@@ -24,5 +24,7 @@ From a member of the community the same question is asked a lot about setting up
 
 ### Want to contribute?
 
+_Docs Format is based on_ [_Markdown_](https://commonmark.org/help/)\_\_
+
 Make a pull request on GitHub and the chance of me reviewing it is 100%
 
