@@ -24,3 +24,5 @@ By default the folder is _ea\_nfsw\_section_ but can be changed to a different f
 
 **If hosting the compressed Game Files for the Game\_Launcher, your Web Server will see a rough Average of 3-5 TB of Bandwith per month. Please make sure to check with your Hosting Provider to have enough Bandwith for such Traffic, especially during High Peak Hours.**
 
+![\[US\] DavidCarbon Mirror - Alternative](../.gitbook/assets/us-davidcarbon-mirror-alternative-march-april-2020-bandwith-.png)
+
