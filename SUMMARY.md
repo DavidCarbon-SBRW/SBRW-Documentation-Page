@@ -18,6 +18,7 @@
   * [Server](launcher/error-codes/game.md)
   * [Game Launcher](launcher/error-codes/launcher/README.md)
     * [Access Violation](launcher/error-codes/launcher/access-violation.md)
+* [Hosting a CDN](launcher/hosting-a-cdn.md)
 
 ## Soapbox Race World Server <a id="server"></a>
 
@@ -32,5 +33,4 @@
 
 * [Discord](https://discord.gg/RneBfcj)
 * [Credits](credits.md)
-* [Hosting a CDN](hosting-a-cdn.md)
 
