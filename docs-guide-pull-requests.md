@@ -6,10 +6,10 @@ description: >-
 
 # Docs Guide \(Pull Requests\)
 
-## Headings
+## Heading \#1
 
 ```bash
-
+## Headings
 ```
 
 Becoming a super hero is a fairly straight forward process:
