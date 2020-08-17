@@ -27,7 +27,7 @@
 ## Need For Speed: World
 
 * [Game Controls](need-for-speed-world/game-controls.md)
-* [Guide](https://guide.sbrw.davidcarbon.download)
+* [Guide](https://nfsworld.davidcarbon.download)
 
 ## Suport
 
