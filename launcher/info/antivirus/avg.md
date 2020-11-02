@@ -1,57 +1,49 @@
 # AVG
 
-![Main Screen](../../../.gitbook/assets/AVG - Settings Menu - Exception Main DC.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-1.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG - Settings Menu - Exception Main Folder.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-2.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG - Settings Menu - Exception Main SBRW.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-3.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG - Settings Menu - Exception Main WUGG.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-4.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG - Settings Menu - Exception.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-5.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG - Settings Menu.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-6.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG-Main-Screen.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-7.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG-Main-Screen-Side-Menu-Settings-Hover.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-8.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG-Main-Screen-Side-Menu.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-9.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG-Settings-Menu-Exception-Enter-DC-Domain.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-10.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG-Settings-Menu-Exception-Enter-Path.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-11.PNG)
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG-Settings-Menu-Exception-Enter-SBRW-Domain.PNG)
-
-Open the AVG Antivirus Panel
-
-![Main Screen](../../../.gitbook/assets/AVG-Settings-Menu-Exception-Enter-SBRW-Domain-v2.PNG)
-
-Open the AVG Antivirus Panel
-
-![Main Screen](../../../.gitbook/assets/AVG-Settings-Menu-Exception-Enter-WUGG-Domain.PNG)
+![Main Screen](../../../.gitbook/assets/AVG-12.PNG)
 
 Open the AVG Antivirus Panel
