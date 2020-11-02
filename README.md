@@ -12,7 +12,7 @@ This page was created and exported from the Unofficial Soapbox Race World Site a
 
 {% page-ref page="launcher/settings/" %}
 
-{% page-ref page="launcher/error-codes/" %}
+{% page-ref page="launcher/info/" %}
 
 {% page-ref page="need-for-speed-world/game-controls.md" %}
 

@@ -2,7 +2,7 @@
 description: Server Error Codes
 ---
 
-# Server
+# Server Error Codes
 
 #### ERROR 5 - "Can't connect to the HTTP-part of the server."
 

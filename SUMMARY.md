@@ -14,10 +14,10 @@
     * [Word Filtering & Verify Files](launcher/settings/official/misc.md)
     * [CDN](launcher/settings/official/cdn.md)
   * [Electron Launcher](launcher/settings/electron.md)
-* [Error Codes](launcher/error-codes/README.md)
-  * [Server](launcher/error-codes/game.md)
-  * [Game Launcher](launcher/error-codes/launcher/README.md)
-    * [Access Violation](launcher/error-codes/launcher/access-violation.md)
+* [Information](launcher/info/README.md)
+  * [Server Error Codes](launcher/info/server-codes.md)
+  * [Game Launcher](launcher/info/launcher/README.md)
+    * [Access Violation](launcher/info/launcher/access-violation.md)
 * [Hosting a CDN](launcher/hosting-a-cdn.md)
 
 ## Soapbox Race World Server <a id="server"></a>
@@ -32,6 +32,6 @@
 ## Suport
 
 * [Discord](https://discord.gg/RneBfcj)
-* [Credits](credits.md)
-* [Docs Guide \(Pull Requests\)](docs-guide-pull-requests.md)
+* [Credits](suport/credits.md)
+* [Docs Guide \(Pull Requests\)](suport/docs-guide-pull-requests.md)
 
