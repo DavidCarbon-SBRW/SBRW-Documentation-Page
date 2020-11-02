@@ -4,9 +4,11 @@
 
 Open the AVG Antivirus Panel
 
-![Main Screen](../../../.gitbook/assets/AVG-2.PNG)
+![Side Menu](../../../.gitbook/assets/AVG-2.PNG)
 
-Open the AVG Antivirus Panel
+Click on the **Menu** Tab to open the Side Menu.
+
+Next Click on the Settings Option.
 
 ![Main Screen](../../../.gitbook/assets/AVG-3.PNG)
 
