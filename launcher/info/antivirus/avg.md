@@ -1,6 +1,6 @@
 # AVG
 
-![](../../../.gitbook/assets/sbrw-choose-a-directory-electron.PNG)
+![](../../../.gitbook/assets/antivirus/avg/Main Screen.PNG)
 
 Open the AVG Antivirus Panel
 
